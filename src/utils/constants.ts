@@ -9,7 +9,7 @@ export type City = {
 export const Cities = [
   {
     id: 1,
-    name: "TORONTO",
+    name: "OTTAWA",
   },
   {
     id: 2,
