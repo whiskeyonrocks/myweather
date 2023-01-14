@@ -1,0 +1,40 @@
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 12;
+  font-weight: 200;
+  min-height: 100vh;
+}
+
+.custom-flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  font-family: inherit;
+  background-color: transparent;
+  border: none;
+  font-size: 22px;
+  font-weight: 200;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: black;
+}
+
+.active_btn {
+  color: #38c3c7;
+  font-weight: 800;
+}

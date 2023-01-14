@@ -1,0 +1,9 @@
+.weather-card {
+  margin-top: 20px;
+}
+
+.city-row {
+  justify-content: space-between;
+  overflow: hidden;
+  height: 48px;
+}
